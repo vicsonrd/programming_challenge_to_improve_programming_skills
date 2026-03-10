@@ -1,4 +1,4 @@
-# INPUT NUM PRINT BIGGER NUM
+#
 first_number = float(input("enter first number: "))
 second_number = float(input("enter second number: "))
 # DETERMINE QUOTIENT W 2 DECIMAL
