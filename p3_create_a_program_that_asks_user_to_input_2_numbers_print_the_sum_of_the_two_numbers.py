@@ -1,7 +1,7 @@
-# INPUT NUM PRINT BIGGER NUM
+# INPUT NUM
 first_number = float(input("enter first number: "))
 second_number = float(input("enter second number: "))
-# DETERMINE THE BIGGER NUMBER
+# SUM
 
 print(f"sum:", first_number + second_number)
     
