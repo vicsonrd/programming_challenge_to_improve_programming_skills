@@ -1,4 +1,4 @@
-# INPUT NUM PRINT BIGGER NUM
+# INPUT NUM PRINT BIGGER NUm
 first_number = float(input("enter first number: "))
 second_number = float(input("enter second number: "))
 # DETERMINE THE BIGGER NUMBER
